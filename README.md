@@ -28,7 +28,7 @@
 
 ### 🌱 Projects
 
-- 🧠 **University Group Project**: Built [brief description]  
+- 🧠 **University Group Project**: Developed a full-stack system to manage constitutional archives with secure access, search functionality, and cloud-based file storage.  
 
 
 ---
