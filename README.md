@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Risuna Ntimana</h1>
 
 <p align="center">
-🎓 Final Year Computer Science Student at <strong>University of the Witwatersrand</strong>   
-🚀 Passionate about Software Engineering and solving real-world problems  
+🎓 Final Year Computer Science Student at <strong>University of the Witwatersrand</strong>. Passionate about Software Engineering and solving real-world problems  
 </p>
 
 ---
