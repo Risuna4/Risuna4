@@ -1,8 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Melody</h1>
+<h1 align="center">Hi there 👋, I'm Risuna Ntimana</h1>
 
 <p align="center">
-🎓 Final Year Computer Science Student at <strong>University of the Witwatersrand</strong>  
-💻 Currently part of a development team building a real-world system for a company in South Africa  
+🎓 Final Year Computer Science Student at <strong>University of the Witwatersrand</strong>   
 🚀 Passionate about Software Engineering and solving real-world problems  
 </p>
 
@@ -30,16 +29,15 @@
 ### 🌱 Projects
 
 - 🧠 **University Group Project**: Built [brief description]  
-- 🏢 **Company System (In Progress)**: Collaborating with a real business to create [short description]
+
 
 ---
 
 ### 📫 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
-- 📧 [Email Me](mailto:your.email@example.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/risuna-ntimana-09b51a359/)  
+- 📧 [Email Me](mailto:risunantimana4@gmail.email@example.com)  
 
 ---
 
-_“Still learning, still building — one line of code at a time.”_
 
