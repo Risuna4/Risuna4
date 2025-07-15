@@ -1,24 +1,25 @@
 <h1 align="center">Hi there 👋, I'm Risuna Ntimana</h1>
 
 <p align="center">
-🎓 Final Year Computer Science Student at <strong>University of the Witwatersrand</strong>. Passionate about Software Engineering and solving real-world problems  
+🎓 Final-Year Computer Science Student at <strong>University of the Witwatersrand</strong><br/>
+💡 Passionate about Software Engineering and solving real-world problems  
 </p>
 
 ---
 
 ### 💡 About Me
-
-- 🔭 I’m currently working on a **production-level system** with a team of developers  
+ 
 - 🌱 Exploring the world of **software engineering**, from frontend to backend  
 - 💬 Ask me about anything related to web development, teamwork, or university projects  
 - 📚 Interested in building real-world, scalable solutions  
 - 📌 Also exploring cybersecurity and backend systems
 
 ---
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Risuna4&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Risuna4&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Risuna4&theme=calm_pink&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Risuna4&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=true" width="60%" />
+</p>
 
 ---
 ### 💻 Tech Stack:
