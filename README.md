@@ -18,8 +18,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Risuna4&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Risuna4&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=true" width="48%" />
 </p>
+
+> 💖 *Theme: [rose_pine](https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md) — soft and elegant, with a touch of personality*
 
 ---
 ### 💻 Tech Stack:
