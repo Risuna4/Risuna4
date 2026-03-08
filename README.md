@@ -16,13 +16,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Risuna4&show_icons=true&theme=rose_pine&cache_seconds=86400" width="48%" />
-</p>
----
-
 ### 💻 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
