@@ -41,7 +41,7 @@ A university group project where we developed a **full-stack system** to manage 
 The platform includes **secure access, document search functionality, and cloud-based file storage using Azure**.
 
 🥾 **Hiking Logbook**  
-A web application that allows users to **record and track their hiking activities**.  
+A university group project where we developed a web application that allows users to **record and track their hiking activities**.  
 The platform helps hikers log their journeys, connect with friends, and keep a record of their outdoor achievements.
 
 ---
